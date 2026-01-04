@@ -1,7 +1,31 @@
-Hi there 👋
 
-# 💫 About Me:
-🔭 Currently Working On<br>Designing and developing backend systems using Java, with a strong focus on writing clean, efficient, and scalable code while consistently practicing Data Structures & Algorithms.<br><br>👯 Open to Collaborating On<br>Backend-centric projects, Java-based services, open-source contributions, and problem-solving repositories involving DSA and system fundamentals.<br><br>🤝 Looking for Guidance In<br>Advanced Java, backend system design, and industry-grade engineering practices that emphasize performance, reliability, and maintainability.<br><br>🌱 Currently Learning<br>Deepening expertise in Java backend development, databases, core CS fundamentals, and strengthening algorithmic thinking through rigorous DSA practice.<br><br>💬 Ask Me About<br>Java programming, backend fundamentals, DSA problem-solving approaches, Git/GitHub workflows, and writing production-quality code.<br><br>⚡ Fun Fact<br>I approach software engineering with a mindset of clarity, consistency, and continuous improvement—small optimizations compound into scalable systems.
+# 🧩 About Me:
+# Hi, I'm Shahil Gupta 👋
+
+Backend-focused software engineer with a **strong foundation in Java, C++, and Data Structures & Algorithms**.
+🔭 Currently Working On
+- Backend development using Java
+- Writing clean, efficient, and scalable code
+- Consistent DSA practice (Java & C++)
+
+🌱 Currently Learning
+- Advanced Java & backend development
+- Databases and backend system design
+- Core computer science fundamentals
+
+🔗 Open to Collaborating On
+- Java-based backend projects
+- Open-source contributions
+- DSA and problem-solving repositories
+
+💬 Ask Me About
+- Java & C++ programming
+- Backend development fundamentals
+- DSA problem-solving strategies
+- Git/GitHub workflows
+
+⚡ Engineering Mindset
+Clarity, consistency, and continuous improvement - small improvements compound into scalable systems.
 
 
 ## 🌐 Socials:
